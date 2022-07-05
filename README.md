@@ -1,6 +1,6 @@
 Available Live Demo:
 
-Open [https://instagram-clone-react-f25f5.web.app/](https://instagram-clone-react-f25f5.web.app/) to view in broswer
+Open [https://instagram-clone-react-f25f5.web.app/](https://instagram-clone-react-f25f5.web.app/) to view in browser
 
 # Getting Started with Create React App
 
