@@ -1,3 +1,7 @@
+Available Live Demo:
+
+Open [https://instagram-clone-react-f25f5.web.app/](https://instagram-clone-react-f25f5.web.app/) to view in broswer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
